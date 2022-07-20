@@ -1,16 +1,18 @@
-### Hi there 👋
+Hola 👋 Me llamo Fer
+Fernando Torrez - Front End Developer
 
-<!--
-**fernandogtorrez/fernandogtorrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gato tecleando un computador con sus patitas suaves y hermosas
 
-Here are some ideas to get you started:
+💛 Aprendí a programar en MindHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ Actualmente estoy aprendiendo React y Node
+
+👩🏻‍💻  Proyecto en el que trabajo: Test.js 🌱
+
+👾 Fan de los videojuegos, en especial de "Valorant"
+
+
+Lenguajes y herramientas:
+javascript html5 css3 git nodejs react 
+
+Redes y contacto:
