@@ -3,8 +3,6 @@ Hola 👋 Me llamo Fer
 
 Fernando Torrez - Front End Developer
 
-gato tecleando un computador con sus patitas suaves y hermosas
-
 💛 Aprendí a programar en MindHub
 
 ⚛️ Actualmente estoy aprendiendo React y Node
